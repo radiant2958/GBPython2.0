@@ -1,0 +1,29 @@
+[
+{
+    "function_name": "func_summ",
+    "args": [
+        4,
+        5,
+        7
+    ],
+    "kwargs": {
+        "d": 1,
+        "f": 2
+    },
+    "result": 19
+}
+],
+{
+    "function_name": "func_summ",
+    "args": [
+        4,
+        5,
+        7
+    ],
+    "kwargs": {
+        "d": 1,
+        "f": 2
+    },
+    "result": 19
+}
+]

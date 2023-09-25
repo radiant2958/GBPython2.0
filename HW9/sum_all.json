@@ -1,0 +1,25 @@
+[
+{
+    "function_name": "sum_all",
+    "args": [
+        2,
+        4
+    ],
+    "kwargs": {
+        "c": 7
+    },
+    "result": 13
+}
+],
+{
+    "function_name": "sum_all",
+    "args": [
+        2,
+        4
+    ],
+    "kwargs": {
+        "c": 7
+    },
+    "result": 13
+}
+]

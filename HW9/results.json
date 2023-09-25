@@ -1,0 +1,85 @@
+{
+     "function_name": "decorated_quadratic_equation",
+     "a": 90.0,
+     "b": 69.0,
+     "c": 96.0,
+     "result": {
+     "function_name": "decorated_quadratic_equation",
+     "a": 82.0,
+     "b": 34.0,
+     "c": 96.0,
+     "result": {
+     "function_name": "decorated_quadratic_equation",
+     "a": 83.0,
+     "b": 60.0,
+     "c": 100.0,
+     "result": {
+     "function_name": "decorated_quadratic_equation",
+     "a": 83.0,
+     "b": 60.0,
+     "c": 100.0,
+     "result": "(-2105.0928074046396+384.9071925953601j)"
+},
+{
+     "function_name": "decorated_quadratic_equation",
+     "a": 24.0,
+     "b": 87.0,
+     "c": 95.0,
+     "result": "(-990.7500508157782+53.24994918422168j)"
+},
+{
+     "function_name": "decorated_quadratic_equation",
+     "a": 63.0,
+     "b": 76.0,
+     "c": 80.0,
+     "result": "(-2150.069854656313+243.930145343687j)"
+},
+{
+     "function_name": "decorated_quadratic_equation",
+     "a": 62.0,
+     "b": 22.0,
+     "c": 37.0,
+     "result": "(-470.3459293848077+211.6540706151923j)"
+},
+{
+     "function_name": "decorated_quadratic_equation",
+     "a": 96.0,
+     "b": 65.0,
+     "c": 17.0,
+     "result": "(-2884.874504364937+235.12549563506298j)"
+},
+{
+     "function_name": "decorated_quadratic_equation",
+     "a": 56.0,
+     "b": 84.0,
+     "c": 51.0,
+     "result": "(-2191.041583461958+160.95841653804194j)"
+},
+{
+     "function_name": "decorated_quadratic_equation",
+     "a": 26.0,
+     "b": 90.0,
+     "c": 23.0,
+     "result": "((-0.2778594794212228+0j), (-3.1836789821172387+0j))"
+},
+{
+     "function_name": "decorated_quadratic_equation",
+     "a": 21.0,
+     "b": 96.0,
+     "c": 34.0,
+     "result": "((-0.38691409167839197+0j), (-4.184514479750179+0j))"
+},
+{
+     "function_name": "decorated_quadratic_equation",
+     "a": 95.0,
+     "b": 1.0,
+     "c": 13.0,
+     "result": "(234.07128857369082+281.5712885736907j)"
+},
+{
+     "function_name": "decorated_quadratic_equation",
+     "a": 54.0,
+     "b": 18.0,
+     "c": 95.0,
+     "result": "(-258.4037475244851+227.59625247551494j)"
+},
