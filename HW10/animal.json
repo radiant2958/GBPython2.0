@@ -1,0 +1,50 @@
+[
+    {
+        "type": "Bird",
+        "name": "Ева",
+        "birthday": "01.01.2022",
+        "vaccinations": "да",
+        "sound": "чик-чирик",
+        "flight_altitude": "5 метров"
+    },
+    {
+        "type": "Fish",
+        "name": "Немо",
+        "birthday": "05.02.2020",
+        "vaccinations": "да",
+        "depth": "2 метра",
+        "type_of_water": "соленая вода"
+    },
+    {
+        "type": "Beast",
+        "name": "Симба",
+        "birthday": "01.01.2019",
+        "vaccinations": "да",
+        "sound": "рррр",
+        "habutation": "дикая природа"
+    },
+    {
+        "type": "Bird",
+        "name": "Ева",
+        "birthday": "01.01.2022",
+        "vaccinations": "да",
+        "sound": "чик-чирик",
+        "flight_altitude": "5 метров"
+    },
+    {
+        "type": "Fish",
+        "name": "Немо",
+        "birthday": "05.02.2020",
+        "vaccinations": "да",
+        "depth": "2 метра",
+        "type_of_water": "соленая вода"
+    },
+    {
+        "type": "Beast",
+        "name": "Симба",
+        "birthday": "01.01.2019",
+        "vaccinations": "да",
+        "sound": "рррр",
+        "habutation": "дикая природа"
+    }
+]
